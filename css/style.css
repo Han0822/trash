@@ -1,0 +1,27 @@
+
+
+.portfolio-thumbnail {
+    padding: 0;
+   height: 480px;
+    width: 350px;
+ 
+  overflow:hidden;
+}
+
+body {
+  padding-top: 90px;
+  font-family: 'Georgia', serif;
+  background-color: white;
+  color: dimgray;
+     font-size: 18px;
+    line-height: 2.0;
+    text-indent:50px;
+}
+
+
+.jumbotron {
+ 
+  text-align: center;
+  color: gray;
+  padding: 0%;
+}
